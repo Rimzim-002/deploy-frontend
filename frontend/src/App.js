@@ -34,16 +34,7 @@ function App() {
         <Route path="/user/dashboard/profile" element={<UserProfile />} />
         <Route path="/user/dashboard/myorders" element={<Myorders />} />
 
-
-
-
-
-
-
-
-
-
-        <Route />
+<Route />
 
 
       </Routes>
